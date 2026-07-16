@@ -12,26 +12,26 @@ Power Query
 DAX
 Microsoft Excel
 # Etapes de traitement des données:
-1.Importation des données:
+# 1.Importation des données:
 Chargement du dataset dans Power BI Desktop.
 Vérification de la structure des données.
-2. Nettoyage des données avec Power Query:
+# 2. Nettoyage des données avec Power Query:
 Vérification des types de données.
 Suppression des colonnes inutiles.
 Gestion des valeurs manquantes.
 Conversion des formats numériques.
 Création de la colonne :
 goal_contribution = goals + assists
-3. Modélisation des données :
+# 3. Modélisation des données :
 Création d'une table Calendar.
 Création des relations entre les tables.
 Ajout des colonnes Year et Month.
-4. Création des mesures DAX:
+# 4. Création des mesures DAX:
 Total Goals
 Total Assists
 Average Rating
 Average Performance
-5. Création du Dashboard:
+# 5. Création du Dashboard:
 KPI Cards
 Graphiques en barres
 Graphiques circulaires
